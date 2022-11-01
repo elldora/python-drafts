@@ -8,4 +8,5 @@ Python
 Python libraries like pandas, numpy, scikit, etc.
 Machine learning algorithms
 Deep learning algorithms
+Mathematics
 Python with Azure ML 
