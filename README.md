@@ -7,4 +7,5 @@ Here, I just test some python code, which is new for me.
 Python
 Python libraries like pandas, numpy, scikit, etc.
 Machine learning algorithms
+Mathematics
 Python with Azure ML 
